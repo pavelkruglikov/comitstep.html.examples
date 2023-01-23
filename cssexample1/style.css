@@ -1,0 +1,15 @@
+html { font-family: Helvetica, Arial, sans-serif; font-size: 15px;}
+
+		ol,li,ul {
+		list-style-type: square inside;
+		}
+		.mainlist {list-style-image: url(img/arrow.png)}
+		.fall {
+					list-style-image: url(img/fall.png)}
+		.winter {
+					list-style-image: url(img/winter.png)}
+		.summer {
+					list-style-image: url(img/summer.png)}
+		.spring	{
+					list-style-image: url(img/spring.png)}
+						
